@@ -18,6 +18,7 @@ public class Sorting_an_ArrayList
         //in desecending order
         Collections.sort(list,Collections.reverseOrder());
         System.out.println(list);
+        System.out.println();
 
     }
 }
